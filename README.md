@@ -36,7 +36,7 @@ AtliQ Mart is a retail giant with over 50 supermarkets in the southern region of
 - Madurai Stores has shown highest incremental revenue which is 158% higher than revenue before promotions.
 - Bangalore and Chennai has 154% incremental revenue after promotions
 - The Top performing stores by IR are Selling High quantity of Home Appliances products and Botttom performing Stores are not able to sell large quanttity of Home Appliances products.
-- BOGOF(Buy One Get One Free) is the top performing promotion type followed by 500 Chasback as the 2nd best performing Promotion type.
+- BOGOF(Buy One Get One Free) is the top performing promotion type followed by 500 Cashback as the 2nd best performing Promotion type.
 - BOGOF in these three categories (Grocery & Staples, Home Appliances, Home Care) is the best balance between incremenatal sold units and maintaining healthy margins.
 - Combo 1 and Grocery& Staples has saw the most significant lift in Sales after the promotions.
 - Atliq Curtains and Atliq double bedsheet set are top 2 selling products after promotions.
